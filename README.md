@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ratnesh Kumar
 - 👀 I’m interested in Data Analysis and Python Developemnt
-- 🌱 I’m experienced Data Anlyst
+- 🌱 I’m experienced Data Analyst
 - 💞️ I’m looking to collaborate on Analytic projects
 - 📫 How to reach me
 - Mob: 8787244318
